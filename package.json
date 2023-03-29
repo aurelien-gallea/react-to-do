@@ -1,6 +1,6 @@
 {
   "homepage": "https://aurelien-gallea.github.io/react-to-do",
-  "name": "todo-list-react",
+  "name": "react-to-do",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
